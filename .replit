@@ -1,2 +1,9 @@
 language = "bash"
 run = "chmod +x run.sh;chmod +x test;./run.sh"
+
+
+class student{
+  private : 
+     int studentId;
+     char name[20];
+}
